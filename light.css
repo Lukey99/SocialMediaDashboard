@@ -257,6 +257,9 @@ main .container .secondContainer .card .bottom img {
 .attribution {
     font-size: 11px;
     text-align: center;
+    position: absolute;
+    bottom: 10px;
+    color: var(--very-dark-blue);
 }
 
 .attribution a {
